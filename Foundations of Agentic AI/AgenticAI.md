@@ -54,8 +54,7 @@ Agentic AI systems are defined by six key characteristics:
 
 ---
 
-![Key-Characteristics-of-Agentic-AI-Systems](https://i.ibb.co/XZPHvRVs/Key-Characteristics-of-Agentic-AI-Systems.png)
----
+<img src="https://i.ibb.co/XZPHvRVs/Key-Characteristics-of-Agentic-AI-Systems.png" alt="Key-Characteristics-of-Agentic-AI-Systems" border="0">
 
 | Characteristic        | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
