@@ -5,6 +5,11 @@ Welcome! This repository tracks my journey into **Agentic AI** using **LangGraph
 
 ---
 
+![Agentic-AI](https://i.ibb.co/WNC6tPzG/Agentic-AI.png)
+---
+
+
+
 ## 🎯 Learning Objectives
 
 - ✅ Learn agentic  AI 
