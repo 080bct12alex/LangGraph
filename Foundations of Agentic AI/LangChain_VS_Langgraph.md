@@ -4,61 +4,14 @@ Creating agentic AI applications can be complex, involving state management, tas
 
 <img src="https://i.ibb.co/Lzq4vTgc/9d24916f-8c2a-4a8e-baf3-2ff16b19d248-1920x1080.jpg" alt="9d24916f-8c2a-4a8e-baf3-2ff16b19d248-1920x1080" border="0">
 
-
-
-
-    
-    
-    
-    
-    
-    
     I am learning LangGraph as I already  have learned LangChain.
     
   
   This repository provides an in-depth comparison between **LangChain** and **LangGraph**, highlighting their strengths, limitations, and ideal use cases. 
 
+<img src="https://i.ibb.co/pB6zB3g1/langchainvsgraph.png" alt="langchainvsgraph" border="0">
 
-
-
-  <img src="https://i.ibb.co/pB6zB3g1/langchainvsgraph.png" alt="langchainvsgraph" border="0">
-
-
-    
-  We focus on building real-world **automated agentic workflows** and explain why LangGraph exists as a necessary extension to LangChain.
-
-
-> LangChain is like React. LangGraph is like Next.js. Learn LangChain first, then LangGraph.
-
-    - that's a very good analogy! ✅
-
-    Learning LangChain first and then LangGraph is just like learning React before learning Next.js.
-
-
-🧠 Here's how the analogy works:
-
-| Concept     | React            | Next.js                       | LangChain                | LangGraph                                       |
-| ----------- | ---------------- | ----------------------------- | ------------------------ | ----------------------------------------------- |
-| What it is  | UI library       | Framework on top of React     | LLM tooling library      | Framework for agentic workflows using LangChain |
-| Base layer  | Core concepts    | Adds structure, routing, etc. | Prompting, chains, tools | Adds workflow control, state, flow logic        |
-| Usage       | Build components | Build full apps, routing, SSR | Build LLM components     | Build full agent workflows                      |
-| Dependency  | Works standalone | Requires React underneath     | Works standalone         | Built on top of LangChain                       |
-| Skill order | Learn first      | Learn after React basics      | Learn first              | Learn after LangChain basics                    |
-
-🧪 Example:
-
-    In React, you learn how to write components and manage state.
-
-    Then in Next.js, you build full apps with routing, APIs, and data fetching.
-
-Similarly:
-
-    In LangChain, you learn how to build chains, tools, and agents.
-
-    Then in LangGraph, you orchestrate multiple steps, branches, loops, and state into advanced agentic apps.
-
-
-
+   We focus on building real-world **automated agentic workflows** and explain why LangGraph exists as a necessary extension to LangChain.
 
 ----------
 
@@ -102,6 +55,40 @@ Similarly:
     
 
 ----------
+
+> LangChain is like React. LangGraph is like Next.js. Learn LangChain first, then LangGraph.
+
+    - that's a very good analogy! ✅
+
+    Learning LangChain first and then LangGraph is just like learning React before learning Next.js.
+
+
+🧠 Here's how the analogy works:
+
+| Concept     | React            | Next.js                       | LangChain                | LangGraph                                       |
+| ----------- | ---------------- | ----------------------------- | ------------------------ | ----------------------------------------------- |
+| What it is  | UI library       | Framework on top of React     | LLM tooling library      | Framework for agentic workflows using LangChain |
+| Base layer  | Core concepts    | Adds structure, routing, etc. | Prompting, chains, tools | Adds workflow control, state, flow logic        |
+| Usage       | Build components | Build full apps, routing, SSR | Build LLM components     | Build full agent workflows                      |
+| Dependency  | Works standalone | Requires React underneath     | Works standalone         | Built on top of LangChain                       |
+| Skill order | Learn first      | Learn after React basics      | Learn first              | Learn after LangChain basics                    |
+
+🧪 Example:
+
+    In React, you learn how to write components and manage state.
+
+    Then in Next.js, you build full apps with routing, APIs, and data fetching.
+
+Similarly:
+
+    In LangChain, you learn how to build chains, tools, and agents.
+
+    Then in LangGraph, you orchestrate multiple steps, branches, loops, and state into advanced agentic apps.
+
+
+
+
+
 
 ## 🧠 Core Concepts
 
