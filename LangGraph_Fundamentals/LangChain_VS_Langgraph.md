@@ -12,43 +12,26 @@ Creating agentic AI applications can be complex, involving state management, tas
 
    We focus on building real-world **automated agentic workflows** and explain why LangGraph exists as a necessary extension to LangChain.
 
-
 ## 📌 Overview
 
--   [🔍 What is LangChain?](#what-is-langchain)
-    
--   [🔧 LangChain Use Cases](#langchain-use-cases)
-    
--   [🔀 What is LangGraph?](#what-is-langgraph)
-    
--   [🧠 LangChain vs LangGraph](#langchain-vs-langgraph)
-    
--   [⚙️ Core Workflow Concepts](#%EF%B8%8F-core-workflow-concepts)
-    
-    -   [1. Control Flow](#1-control-flow)
-        
-    -   [2. State Management](#2-state-management)
-        
-    -   [3. Event-Driven Execution](#3-event-driven-execution)
-        
-    -   [4. Fault Tolerance](#4-fault-tolerance)
-        
-    -   [5. Human-in-the-Loop](#5-human-in-the-loop)
-        
-    -   [6. Nested Workflows](#6-nested-workflows)
-        
-    -   [7. Observability](#7-observability)
-        
--   [👷 Practical Use Case: Automated Hiring Workflow](#practical-use-case-automated-hiring-workflow)
-    
--   [🧪 Challenges with LangChain](#challenges-with-langchain)
-    
--   [✅ Solutions with LangGraph](#solutions-with-langgraph)
-    
--   [🧠🔂 Understanding Workflow vs AgenticAI  (Workflow)
-](#understanding-agentic-ai)
-    
--   [📌 Conclusion](#conclusion)
+- [🔍 What is LangChain?](#%F0%9F%94%8D-what-is-langchain)
+- [🔧 LangChain Use Cases](#%F0%9F%94%A7-langchain-use-cases)
+- [🔀 What is LangGraph?](#%F0%9F%94%80-what-is-langgraph)
+- [🧠 LangChain vs LangGraph](#%F0%9F%A7%A0-langchain-vs-langgraph)
+- [⚙️ Core Workflow Concepts](#%E2%9A%99%EF%B8%8F-core-workflow-concepts)
+  - [1. Control Flow](#1-control-flow)
+  - [2. State Management](#2-state-management)
+  - [3. Event-Driven Execution](#3-event-driven-execution)
+  - [4. Fault Tolerance](#4-fault-tolerance)
+  - [5. Human-in-the-Loop](#5-human-in-the-loop)
+  - [6. Nested Workflows](#6-nested-workflows)
+  - [7. Observability](#7-observability)
+- [👷 Practical Use Case: Automated Hiring Workflow](#%F0%9F%91%B7-practical-use-case-automated-hiring-workflow)
+- [🧪 Challenges with LangChain](#%F0%9F%A7%AA-challenges-with-langchain)
+- [✅ Solutions with LangGraph](#%E2%9C%85-solutions-with-langgraph)
+- [🧠🔂 Understanding Workflow vs AgenticAI (Workflow)](#%F0%9F%A7%A0%F0%9F%94%82-understanding-workflow-vs-agenticai-workflow)
+- [📌 Conclusion](#%F0%9F%93%8C-conclusion)
+
     
 
 > LangChain is like React. LangGraph is like Next.js. Learn LangChain first, then LangGraph.
