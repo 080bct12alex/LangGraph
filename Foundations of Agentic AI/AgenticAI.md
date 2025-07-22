@@ -23,8 +23,7 @@ Agentic AI is a new generation of AI systems capable of **proactive and autonomo
 
 ## 💼 Practical Scenario Example: HR Recruitment
 
-<img src="https://i.ibb.co/VWzXJnht/Agentic-AI-HR-Recruiter-Process.png" alt="Alt Text" >
-
+<img src="https://i.ibb.co/VWzXJnht/Agentic-AI-HR-Recruiter-Process.png" alt="Agentic-AI-HR-Recruiter-Process" border="0">
 
 In this scenario, the Agentic AI chatbot aids HR recruiters by:
 
