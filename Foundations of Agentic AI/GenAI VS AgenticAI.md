@@ -3,7 +3,7 @@
 
  The differences between Generative AI and Agentic AI  outline the evolution of AI technologies . It provides practical insights into how these technologies can be applied in various domains like HR recruitment discussesing  the limitations of traditional AI systems and how Agentic AI can improve efficiency in tasks by taking initiative and being context-aware.
 
- ![Agentic-AI](https://i.ibb.co/6RwMkKfg/genai-vs-ai-agent-vs-agenticai.png)
+<img src="https://i.ibb.co/6RwMkKfg/genai-vs-ai-agent-vs-agenticai.png" alt="genai-vs-ai-agent-vs-agenticai" border="0">
  
  
 <img src="https://i.ibb.co/DDRs9Mmh/traditional-ai-vs-agentic-ai.webp" alt="traditional-ai-vs-agentic-ai" border="0">
