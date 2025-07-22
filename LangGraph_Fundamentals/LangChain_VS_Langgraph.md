@@ -11,7 +11,7 @@ Creating agentic AI applications can be complex, involving state management, tas
 
 <img src="https://i.ibb.co/pB6zB3g1/langchainvsgraph.png" alt="langchainvsgraph" border="0">
 
-   We focus on building real-world **automated agentic workflows** and explain why LangGraph exists as a necessary extension to LangChain.
+    focus on building real-world **automated agentic workflows** and know why LangGraph exists as a necessary extension to LangChain.
 
 ----------
 
@@ -58,7 +58,7 @@ Creating agentic AI applications can be complex, involving state management, tas
 
 > LangChain is like React. LangGraph is like Next.js. Learn LangChain first, then LangGraph.
 
-    - that's a very good analogy! ✅
+    -  a very good analogy! ✅
 
     Learning LangChain first and then LangGraph is just like learning React before learning Next.js.
 
@@ -213,7 +213,6 @@ It supports:
 
 ----------
 
-## 
 
 ## ⚙️ Core Workflow Concepts
 
