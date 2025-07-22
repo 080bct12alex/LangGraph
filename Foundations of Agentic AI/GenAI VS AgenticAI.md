@@ -177,6 +177,9 @@ This phase introduces **intelligent assistants** that combine **Generative AI** 
 -   Enhances Generative AI by **retrieving external, up-to-date knowledge** from databases, documents, or APIs.
     
 -   Helps bridge the **knowledge gap** in LLMs (e.g., missing company-specific info or private candidate databases).
+
+
+  <img src="https://i.ibb.co/HTNvjjTT/rag.png" alt="rag" border="0">
     
 
 ### 🔄 What are AI Agents?
