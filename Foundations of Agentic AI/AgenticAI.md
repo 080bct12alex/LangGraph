@@ -12,23 +12,16 @@ Agentic AI is a type of AI that can take a task or goal from a user and work tow
 Unlike Generative AI chatbots (e.g., ChatGPT), which are reactive and respond only to specific questions at a given moment,
 Agentic AI is a new generation of AI systems capable of **proactive and autonomous**, **take initiative** , **autonomous decision-making**, **self-planning**, and **adaptive action**. 
 
-![Agentic-AI](https://i.ibb.co/6RwMkKfg/genai-vs-ai-agent-vs-agenticai.png)
+<img src="https://i.ibb.co/VcM1Gb01/1744968975387.png" alt="1744968975387" border="0">
 ---
 
 
-
-🔁 **Example:** An AI agent  Agentic AI can plan a trip to Pokhara by researching travel options, accommodations, and  suggesting itineraries—**entirely autonomously**.
+🔁 **Example:** An AI agent , Agentic AI can plan a trip to Pokhara by researching travel options, accommodations, and  suggesting itineraries—**entirely autonomously**.
 —highlighting its initiative-taking nature.
 
  
 
-
-
-
-
 ## 💼 Practical Scenario Example: HR Recruitment
-
-
 
 <img src="https://i.ibb.co/VWzXJnht/Agentic-AI-HR-Recruiter-Process.png" alt="Alt Text" >
 
@@ -66,12 +59,6 @@ Agentic AI systems are defined by six key characteristics:
 | **Context Awareness** | Tracks user preferences, task progress, and environment information   to stay on course using both short- and long-term memory.  |
 
 ---
-
-
-
-
-
-
 
 
 
