@@ -17,7 +17,7 @@
 
 Generative AI refers to AI models that create new content like text, images, audio, and video that resemble human-created data. It has changed the landscape of AI in recent years, with examples like ChatGPT leading the transformation.
 
-### Generative AI vs. Traditional AI     
+### Generative AI vs Traditional AI     
 
 
 Generative AI learns the distribution of data to generate new samples, while traditional AI focuses on patterns and input-output relationships. Generative AI's ability to mimic human creativity is a significant advancement over traditional systems.
