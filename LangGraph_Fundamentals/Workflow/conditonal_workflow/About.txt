@@ -1,0 +1,9 @@
+Sequential Workflows and Parallel Workflows
+    Sequential workflows involve executing tasks in a linear manner, one after the other. 
+    In contrast, parallel workflows allow multiple tasks to be executed simultaneously, as illustrated by a flowchart where tasks two and three run concurrently after task one is completed, leading to task four. This branching structure highlights the use of parallel processing within task execution.
+
+Conditional Workflows
+    Conditional work flow mimics parallel work flow but allows only one branch to be executed based on a condition, much like an if-else statement in programming. 
+
+Parallel Workflows VS Conditional Workflows
+    Conditional workflows involve branching paths similar to parallel workflows, but the key difference is that only one branch is activated based on specific conditions, rather than engaging all branches simultaneously.
