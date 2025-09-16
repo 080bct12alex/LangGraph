@@ -143,8 +143,9 @@ Also I will adapt to new breakthroughs and frameworks in the space.
 ## 🧑‍💻 My Progress Log
 
 - [✅] Module 1: Agentic AI foundations
-- [x]  Module 2: LangGraph fundamentals
-- [ ] ...
+- [✅] Module 2: LangGraph fundamentals
+- [x]  Module 2: Advanced LangGraph
+- [ ]  ...
 - [ ] Final Capstone App 🚀
 
 ---

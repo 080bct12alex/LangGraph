@@ -1,0 +1,3 @@
+## Human in the Loop
+
+Incorporating a **Human-in-the-loop** (HITL)  in workflows enhances control by allowing user approval before final actions, such as posting content. This requires a system to pause execution until user input is received, which is efficiently managed through persistence as requires the system to store the state at each checkpoint, resuming from the paused state once the human decision is made.
