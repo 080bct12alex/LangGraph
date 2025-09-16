@@ -1,6 +1,6 @@
 ##  Improvement Made:
 
--  Implement a memory feature to store key information (like user name) and recall it as needed throughout the conversation.  
+-  Implement a memory feature i.e short-term memory to store key information (like user name) and recall it as needed throughout the conversation.  
     
        Implementing Persistence in Langgraph
  
