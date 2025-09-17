@@ -1,5 +1,9 @@
+# same as in langsmith   
+# note add .env to connect with langsmith and for other api used
+
 import streamlit as st
-from langgraph_tool_backend import chatbot, retrieve_all_threads
+#only change here this; file name of backend
+from langgraph_tool_backend import chatbot, retrieve_all_threads    
 from langchain_core.messages import HumanMessage, AIMessage, ToolMessage
 import uuid
 
@@ -54,10 +58,11 @@ for thread_id in st.session_state["chat_threads"][::-1]:
 
 # ============================ Main UI ============================
 
-# Render history
+# loading / Render the  history
 for message in st.session_state["message_history"]:
     with st.chat_message(message["role"]):
         st.text(message["content"])
+
 
 user_input = st.chat_input("Type here")
 
@@ -75,15 +80,25 @@ if user_input:
 
     # Assistant streaming block
     with st.chat_message("assistant"):
-        # Use a mutable holder so the generator can set/modify it
+        
+        # Use a mutable holder 
+        # so the generator can set/modify it
         status_holder = {"box": None}
-
-        def ai_only_stream():
+      
+      
+      
+      #if not use we will get 2 output 
+      # from tool and llm
+      #  note llm output is structured 
+      # so only take output of llm  
+        
+        def ai_only_stream():    
             for message_chunk, metadata in chatbot.stream(
                 {"messages": [HumanMessage(content=user_input)]},
                 config=CONFIG,
                 stream_mode="messages",
             ):
+                # show which tool used
                 # Lazily create & update the SAME status container when any tool runs
                 if isinstance(message_chunk, ToolMessage):
                     tool_name = getattr(message_chunk, "name", "tool")
@@ -107,7 +122,7 @@ if user_input:
         # Finalize only if a tool was actually used
         if status_holder["box"] is not None:
             status_holder["box"].update(
-                label="✅ Tool finished", state="complete", expanded=False
+                label="✅ Tool  Finish", state="complete", expanded=False
             )
 
     # Save assistant message

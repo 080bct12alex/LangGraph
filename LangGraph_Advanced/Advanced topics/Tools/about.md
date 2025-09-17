@@ -21,8 +21,7 @@ The chatbot will enhance its capabilities by adding an internet search tool for 
 ### Added Features
 A tool is introduced that retrieves real-time stock prices for companies using a chatbot interface, which can switch between normal chat functionality and task execution using integrated tools. The chatbot can perform searches using DuckDuckGo, calculate results, and retrieve a company's stock price when prompted.
 
- applying these capabilities within the chatbot project.
-
+ covering the fundamentals of adding tools in LangGraph 
 
 ## Concept in Integrating Tools in LangGraph
 
@@ -46,7 +45,7 @@ Additionally, the existing structure does not support multi-step queries, causin
 
 To resolve these problems, the structure needs to be modified to allow the tools' output to be sent back to the chat node for better presentation, enabling a more efficient and refined user experience.
 
+## Conclusion 
+learned about various tools and their applications in LangGraph. 
 
-## Conclusion
- integrated a new powerful feature—tools—into an existing project.
- NOTE: MCP server is more powerful than function calling or tool calling .
+

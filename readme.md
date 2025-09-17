@@ -45,7 +45,7 @@ This learning  is structured into 6 modules, starting from foundational AI conce
 - Human-in-the-Loop interaction
 - Breakpoints & Checkpoints
 - Time Travel
-- **Goal:** Equip yourself to build **robust, industry-grade** AI agents
+- **Goal:**  build **robust, industry-grade** AI agents
 
 ---
 
@@ -144,9 +144,9 @@ Also I will adapt to new breakthroughs and frameworks in the space.
 
 - [✅] Module 1: Agentic AI foundations
 - [✅] Module 2: LangGraph fundamentals
-- [x]  Module 2: Advanced LangGraph
+- [✅] Module 3: Advanced LangGraph
 - [ ]  ...
-- [ ] Final Capstone App 🚀
+- [x] Final Capstone App 🚀  (ongoing)
 
 ---
 
